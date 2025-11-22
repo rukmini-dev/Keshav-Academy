@@ -1,1 +1,36 @@
-echo "# My Project" > README.md
+# Keshav Web Project
+
+This repository contains a multi-page website built using **HTML**, **Tailwind CSS**, and **VS Code**.
+
+## 📌 Project Structure
+```
+├── index.html
+├── about.html
+├── contact.html
+├── internships.html
+├── learning.html
+├── mentors.html
+├── placement.html
+├── placements.html
+├── workshops.html
+```
+
+## 🚀 Features
+- Clean and modern UI using **Tailwind CSS CDN**
+- Responsive design
+- Multiple service pages such as Internships, Workshops, Placement Support, etc.
+- Easy navigation through linked pages
+
+## 📄 Main Section (What We Offer)
+Located in `index.html`, this section contains 3 service cards:
+- **Project-based Internships**
+- **Career Workshops**
+- **Placement Support**
+
+Each card links to its respective page.
+
+## 🛠 How to Use
+1. Clone or download this project folder.
+2. Open it in **VS Code**.
+3. Use the **Live Server** extension to preview:
+   - Right-click `index.html` → **Open with Live Server**.
